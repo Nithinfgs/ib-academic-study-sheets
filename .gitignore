@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+dist/
+build/
+.next/
+.cache/
+*.log
+.env
+.env.local
+.env.production
+.env*.local
+bun.lockb
+.gradle/
+*.class
+*.apk
